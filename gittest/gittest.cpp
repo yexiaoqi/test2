@@ -8,6 +8,7 @@ int main()
 {
 	std::cout << "test";
 	std::cout << "test2";
+	std::cout << "·¢²¼µ½github";
     return 0;
 }
 
